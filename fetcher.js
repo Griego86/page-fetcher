@@ -10,7 +10,7 @@ if (process.argv.length !== 4) {
   process.exit(1);
 }
 
-// Establishing teh file path
+// Establishing the file path
 const sourceURL = process.argv[2];
 const localFilePath = process.argv[3];
 
